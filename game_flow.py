@@ -12,3 +12,5 @@ chess_board.generate_board()
 
 # player move input
 move_logic.request_blue()
+
+#comment
