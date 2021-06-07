@@ -14,3 +14,4 @@ chess_board.generate_board()
 move_logic.request_blue()
 
 #comment
+#comment 2
