@@ -1,6 +1,7 @@
 import chess_board
 import move_logic
 
+#def main(): 
 # start game by assigning Player 1 and Player 2
 print("Welcome to terminal chess. May the best player win.")
 player_1 = input("Player 1: ")

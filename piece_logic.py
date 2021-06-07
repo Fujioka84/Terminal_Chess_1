@@ -9,7 +9,7 @@ no_color = "\033[0m"
 #capture
 #to queen
 #en passante
-class WhitePawn:
+class Pawn:
     def __init__(self, move):
         self.move = move
 
